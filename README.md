@@ -7,3 +7,9 @@ this kind of reports provides general stores with strategies and solutions to he
  increasing or declining. Sales managers analyze the trends in the report to determine the best course of action.
  They often use reports to identify market opportunities and areas where they could increase volume. 
 
+This implementation include dealing with the following concepts:
+Read Files
+Send and Receive Files
+Establishes a connection to the server program
+Parse Files
+Concurrency and threads 
