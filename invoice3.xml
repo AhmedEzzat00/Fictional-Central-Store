@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<invoice>
+
+    <products>
+        <product>
+            <name>orange</name>
+            <price>25.00</price>
+        </product>
+        <product>
+            <name>apple</name>
+            <price>75.00</price>
+        </product>
+
+    </products>
+    <total>100.00</total>
+
+</invoice>

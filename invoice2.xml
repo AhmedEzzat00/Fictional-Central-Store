@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<invoice>
+
+    <products>
+        <product>
+            <name>salad</name>
+            <price>50.00</price>
+        </product>
+        <product>
+            <name>rice</name>
+            <price>10.00</price>
+        </product>
+        <product>
+            <name>orange</name>
+            <price>25.00</price>
+        </product>
+
+    </products>
+    <total>85.00</total>
+
+</invoice>
